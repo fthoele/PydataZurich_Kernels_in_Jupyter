@@ -1,5 +1,5 @@
 # Kernel in Jupyter
-This repo contains the slides and python code for my talk on kernel in Jupyter for PyData Zurich.
+This repo contains the slides and python code for my talk on kernels in Jupyter for PyData Zurich.
 
 To install a new kernel:
 ```
