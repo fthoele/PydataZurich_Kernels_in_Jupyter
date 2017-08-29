@@ -2,7 +2,7 @@ from ipykernel.kernelbase import Kernel
 
 
 class CharacterCountKernel(Kernel):
-  implementation = 'Echo'
+  implementation = 'CharacterCount'
   implementation_version = '1.0'
   banner = "Character count kernel - less useful than a parrot"
 
